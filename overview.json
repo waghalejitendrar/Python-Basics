@@ -1,0 +1,60 @@
+{
+  "rootFolder": "e:\\ExamplePython\\Python-Basics",
+  "analyzedAt": "2025-08-13T15:48:29.439Z",
+  "rootStructure": [],
+  "rootFileSnippets": {},
+  "importantFolders": [],
+  "readmeParagraphs": {},
+  "totals": {
+    "numFiles": 0,
+    "numDirs": 1,
+    "totalSizeBytes": 0,
+    "totalLinesOfCode": 0
+  },
+  "fileCategories": {},
+  "linesOfCodePerLanguage": {},
+  "filesPerLanguage": {},
+  "projectTypes": [],
+  "frameworks": [],
+  "entryPoints": [],
+  "ciCdTools": [],
+  "packageManagers": [],
+  "topLevelDirectories": [],
+  "detailedDirectories": [],
+  "architecturalInsights": {
+    "coreApplications": [],
+    "entryPointDetails": [],
+    "serviceArchitecture": {
+      "microservices": [],
+      "monoliths": [],
+      "libraries": []
+    },
+    "layeredArchitecture": {
+      "presentation": [],
+      "business": [],
+      "data": [],
+      "infrastructure": []
+    }
+  },
+  "largeFiles": [],
+  "dependencies": {
+    "production": [],
+    "development": [],
+    "total": 0
+  },
+  "complexity": {
+    "averageFileSize": 0,
+    "maxFileSize": 0,
+    "nestedDepth": 0,
+    "estimatedComplexity": "low"
+  },
+  "gitRepo": {
+    "firstCommitDate": "unknown",
+    "totalCommits": 0,
+    "numContributors": 0,
+    "currentBranch": "main",
+    "remoteUrls": [
+      "https://github.com/waghalejitendrar/Python-Basics.git"
+    ]
+  }
+}
